@@ -1,0 +1,6 @@
+{
+  "name": "Instagram Download Hub",
+  "description": "All-in-One Instagram Downloader UI. High performance, elegant dark mode UI with interactive simulator for video, photos, stories, and reels links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
